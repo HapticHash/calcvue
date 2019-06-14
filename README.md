@@ -2,9 +2,9 @@
   <br>
   <a href="https://www.github.com/HapticHash/calcvue">
   <picture>
-    <source srcset="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.webp" type="image/webp">
-    <source srcset="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.jpg" type="image/jpeg"> 
-    <img src="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.jpg" alt="CalcVue!" width="200">
+    <source srcset="https://haptichash.github.io/TKDesigns/design/extras/calc.webp" type="image/webp">
+    <source srcset="https://haptichash.github.io/TKDesigns/design/extras/calc.jpg" type="image/jpeg"> 
+    <img src="https://haptichash.github.io/TKDesigns/design/extras/calc.jpg" alt="CalcVue!" width="200">
   </picture>
   </a>
   <br>
@@ -16,7 +16,7 @@
 
 [CalcVue](https://www.github.com/HapticHash/calcvue/) is a basic calculator app which was developed to learn and implement the my knowlege of VueJS.
 
-[![CalcVue demo](https://raw.githack.com/HapticHash/calcvue/master/extras/preview.png)](https://www.github.com/HapticHash/calcvue/)
+[![CalcVue demo](https://haptichash.github.io/TKDesigns/design/extras/preview.png)](https://www.github.com/HapticHash/calcvue/)
 
 
 ## Project setup
