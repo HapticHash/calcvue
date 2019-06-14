@@ -1,29 +1,28 @@
-# calcvue
+<h1 align="center">
+  <br>
+  <a href="https://www.github.com/HapticHash/calcvue"><img src="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.webp" alt="CalcVue" width="200"></a>
+  <br>
+  CalcVue
+  <br>
+</h1>
+
+:star: Star this on GitHub — it helps!
+
+[CalcVue](https://www.github.com/HapticHash/calcvue/) is a basic calculator app which was developed to learn and implement the my knowlege of VueJS.
+
+[![CalcVue demo](https://raw.githack.com/HapticHash/calcvue/master/extras/preview.png)](https://www.github.com/HapticHash/calcvue/)
+
 
 ## Project setup
 ```
-npm install
-```
+git clone https://github.com/HapticHash/calcvue.git
 
-### Compiles and hot-reloads for development
-```
+npm install
+
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Author
+Harshit Kumar Singh [Web Developer](http://haptichash.github.io/)
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details.
