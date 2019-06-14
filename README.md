@@ -1,6 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://www.github.com/HapticHash/calcvue"><img src="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.webp" alt="CalcVue" width="200"></a>
+  <a href="https://www.github.com/HapticHash/calcvue">
+  <picture>
+    <source srcset="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.webp" type="image/webp">
+    <source srcset="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.jpg" type="image/jpeg"> 
+    <img src="https://raw.githack.com/HapticHash/calcvue/master/extras/calc.jpg" alt="CalcVue!" width="200">
+  </picture>
+  </a>
   <br>
   CalcVue
   <br>
